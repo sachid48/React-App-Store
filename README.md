@@ -124,7 +124,7 @@ Use these files to complete the implementation:
    
 <br/>
  
-<div style="background-color: #fff1eb; width: 150px; padding: 10px; color: black">URL:https://sachiappstore.ccbp.tech/</div>
+
 <div style="background-color: #fff1eb; width: 150px; padding: 10px; color: black">Hex: #fff1eb</div>
 <div style="background-color: #ace0f9; width: 150px; padding: 10px; color: black">Hex: #ace0f9</div>
 <div style="background-color: #1e293b; width: 150px; padding: 10px; color: white">Hex: #1e293b</div>
@@ -143,7 +143,7 @@ Use these files to complete the implementation:
 </details>
 
 > ### _Things to Keep in Mind_
->
+><div style="background-color: #fff1eb; width: 150px; padding: 10px; color: black">URL:https://sachiappstore.ccbp.tech/</div>
 > - All components you implement should go in the `src/components` directory.
 > - Don't change the component folder names as those are the files being imported into the tests.
 > - **Do not remove the pre-filled code**
