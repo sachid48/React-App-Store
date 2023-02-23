@@ -123,9 +123,8 @@ Use these files to complete the implementation:
 <summary>Colors</summary>
    
 <br/>
- <hr/>
+ 
 <div style="background-color: #fff1eb; width: 150px; padding: 10px; color: black">URL:https://sachiappstore.ccbp.tech/</div>
-
 <div style="background-color: #fff1eb; width: 150px; padding: 10px; color: black">Hex: #fff1eb</div>
 <div style="background-color: #ace0f9; width: 150px; padding: 10px; color: black">Hex: #ace0f9</div>
 <div style="background-color: #1e293b; width: 150px; padding: 10px; color: white">Hex: #1e293b</div>
