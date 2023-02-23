@@ -143,7 +143,7 @@ Use these files to complete the implementation:
 </details>
 
 > ### _Things to Keep in Mind_
-><div style="background-color: #fff1eb; width: 150px; padding: 10px; color: black">URL:https://sachiappstore.ccbp.tech/</div>
+<div style="background-color: #fff1eb; width: 150px; padding: 10px; color: black">URL:https://sachiappstore.ccbp.tech/</div>
     <hr/>
 > - All components you implement should go in the `src/components` directory.
 > - Don't change the component folder names as those are the files being imported into the tests.
